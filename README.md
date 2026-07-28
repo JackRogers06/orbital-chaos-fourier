@@ -1,6 +1,8 @@
 # Electron Trajectory & Orbital Chaos Analysis
 
-- This project models an electron moving in the electrostatic field of two stationary protons and analyzes its orbital behavior using numerical integration and Fourier analysis.
+This project models an electron moving in the electrostatic field of two stationary protons and analyzes its orbital behavior using numerical integration and Fourier analysis.
+
+This project was made for PHYS 210: Computational Physics
 
 **Core Simulation (`solve_ivp`)**
 
